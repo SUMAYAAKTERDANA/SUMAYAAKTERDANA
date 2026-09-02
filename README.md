@@ -1,6 +1,6 @@
 <!-- ===================== Banner ===================== -->
 <p align="center">
-  <img src=".github Image Sep 2, 2026, 01_54_38 PM.png" width="100%">
+  <img src="./image.png" width="100%">
 </p>
 
 <!-- ===================== Introduction ===================== -->
