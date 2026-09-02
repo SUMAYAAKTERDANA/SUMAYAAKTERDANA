@@ -51,9 +51,7 @@ solving programming problems, and improving my development skills.
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
+
 
 </p>
 
@@ -98,24 +96,7 @@ solving programming problems, and improving my development skills.
 
 ## 🚀 Featured Projects
 
-### 📚 Library Management System
 
-A library management system developed to manage books and library-related activities.
-
-**Technologies:** Python
-
-🔗 [View Project](YOUR_PROJECT_LINK)
-
----
-
-### 🌐 Web Development Projects
-
-Collection of my web development practice projects using HTML, CSS,
-JavaScript, React and Tailwind CSS.
-
-🔗 [View Projects](https://github.com/SUMAYAAKTERDANA?tab=repositories)
-
----
 
 ## 🎯 2026 Goals
 
