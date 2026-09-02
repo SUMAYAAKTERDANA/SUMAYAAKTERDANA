@@ -55,21 +55,7 @@ solving programming problems, and improving my development skills.
 
 </p>
 
----
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SUMAYAAKTERDANA&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMAYAAKTERDANA&layout=compact&theme=tokyonight"
-    height="180"
-  />
-</p>
 
 ---
 
@@ -82,19 +68,6 @@ solving programming problems, and improving my development skills.
 </p>
 
 ---
-
-## 📈 My GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SUMAYAAKTERDANA&theme=tokyo-night"
-    width="100%"
-  />
-</p>
-
----
-
-## 🚀 Featured Projects
 
 
 
