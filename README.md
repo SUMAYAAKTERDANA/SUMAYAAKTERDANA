@@ -1,10 +1,6 @@
 <!-- ===================== Banner ===================== -->
-
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Sumaya%20Akter&fontSize=35&fontAlignY=35&animation=twinkling"
-    width="100%"
-  />
+  <img src=".github Image Sep 2, 2026, 01_54_38 PM.png" width="100%">
 </p>
 
 <!-- ===================== Introduction ===================== -->
