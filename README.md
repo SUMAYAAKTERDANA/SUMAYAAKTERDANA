@@ -51,11 +51,13 @@ solving programming problems, and improving my development skills.
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://www.facebook.com/sumaya.bintebadsha.5">
-<img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+<a href=" https://www.facebook.com/sumaya.bintebadsha.5/ ">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
 </a>
 
 </p>
+
+
 
 
 
