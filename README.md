@@ -43,19 +43,31 @@ solving programming problems, and improving my development skills.
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
 
+<!-- GitHub -->
 <a href="https://github.com/SUMAYAAKTERDANA">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://www.facebook.com/sumaya.bintebadsha.5/ ">
+<!-- Facebook -->
+<a href="https://www.facebook.com/sumaya.bintebadsha.5/">
 <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
 </a>
 
+<!-- Code Lab -->
+<a href="https://codelab.serve.bd/u/sumaya-akter935">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45"/>
+</a>
+
+<!-- Email -->
+<a href="mailto:info.sumaya935@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
+</a>
+
 </p>
+
+
 
 
 
